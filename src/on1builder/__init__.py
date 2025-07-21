@@ -1,0 +1,6 @@
+__version__ = "2.2.0"
+__author__ = "john0n1"
+__email__ = "john@on1.no"
+__license__ = "MIT"
+__description__ = "ON1Builder is a cross-chain arbitrage bot for Ethereum and EVM-compatible networks, designed to automate profitable trading opportunities."
+__url__ = "https://github.com/john0n1/ON1Builder"
